@@ -1,2 +1,2 @@
 # einundzwanzig-hochtaunus
-Website of the Einundzwanzig Hochtaunus Bitcoin Meetup
+Repository für die Website des Einundzwanzig Hochtaunus Bitcoin Meetup
