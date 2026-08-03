@@ -1,11 +1,12 @@
 
 ---
+
 layout: home
 ---
+
 # Willkommen
 
 Hello World. Hello Friend.---
-
 
 Einundzwanzig Hochtaunuskreis Bitcoin Meetup
 
